@@ -1,16 +1,16 @@
-# day_3_tapsiriq
+# Day 2 task
 
-Day 3 duzgun implementasiya
+Day 2 üçün task.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Tapşırıqlar :
 
-A few resources to get you started if this is your first Flutter project:
+Bu tapşırıqları while ilə yazın
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Dövrdən istifadə edərək 1-dən 10 kimi ədədləri ekrana çapa verin.
+2. Araşdırma : 1-dən 100-ə kimi yalnız cüt ədədləri ekrana çapa versin.
+3. **(Çətin task) 100-dən 1 ə kimi ədədləri ekrana çapa versin.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bu reponu download etməzdən əvvəl mütləq özünüz cəhd edin 
+sonra burdakı düzgün cavablara baxın.
